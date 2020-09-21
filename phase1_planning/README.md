@@ -1,7 +1,7 @@
 # Visualize Yourself: A Job's Repercussions on Mood & Energy #
 
 ### Factor Model ###
-* ![Factor Model](https://github.com/eric-wisniewski/visualizeYourself_Project/blob/master/phase1_planning/SimpleFactorModel.png)
+![Factor Model](https://github.com/eric-wisniewski/visualizeYourself_Project/blob/master/phase1_planning/SimpleFactorModel.png)
 
 * Energy
 	> Energy will be calculated into a score based on quantification scales used before, during, and after work. Also will be used on days where there is no work taking place. My theory on energy levels is they will show a steady decline from the begininng to the end, varying of difficulty of work day. 
