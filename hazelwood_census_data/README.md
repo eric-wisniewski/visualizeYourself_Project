@@ -1,16 +1,14 @@
 # Greater Hazelwood Community Census Data #
 
-1. What patterns exist in the gender of the respondent and their perception of Hazelwood's physical appearance? Are folks more likely to be willing to volunteer for a block watch if they believe the neighborhood's appearance is positive?
-
-* Explanation
-	>
-
 2. Which subgroup of respondents (sliced on relevant/interesting questions) are most likely to have indiciated interest in a block watch?
 
-![Question 2 Pivot Table](https://github.com/eric-wisniewski/visualizeYourself_Project/blob/master/hazelwood_census_data/Hazelwood_Q2.png)
+![Question 2 Pivot Table 1](https://github.com/eric-wisniewski/visualizeYourself_Project/blob/master/hazelwood_census_data/Hazelwood_Q2.png)
 
 * Explanation
-	>
+	> In the figure above, I took Q49 (What is your edu. leve?) and used it as my rows to cross it with Q25 (Would you dedicate 2 hours a month to volunteer?) as my columns. I then took a count of the values from Q39 (Would you be a part of a block group or block watch?), which are the numbers displayed in the actual table. In the second figure, it simply showing the result values as percentages of the rows, i.e. percentage of each degree with their corresponding values. 
+
+* Analysis
+	> In the pivot tables, the split is pretty similar among all values in the columns with the 'Yes' column containing around %59 and the 'No' column containg around %28. The remaining %10 falls into the 'Don't Know' column. This shows that regardless of education level, the community feels approximately the same among the opinion of a watch party. Now the opinion of the community toward a block watch seems to be more in favor than not having a block watch. From this we can see that the general attitude this community has towards its infrastructure is positive, and they want to see an improvement upon it.   
 
 
 3. Inquire into patterns that exist in respondents ideas for changes to make in Hazelwood (Q6). Would creating sub-planning groups for neighborhood improvements based on age and gender makse sense to you based on the data? Is there a connection between the improvements folks would like to see and the Creative activities folks are interested in (Q29)?
@@ -30,4 +28,3 @@
 
 * Explanation
 	>
-	
