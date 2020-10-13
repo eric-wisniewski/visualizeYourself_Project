@@ -19,6 +19,9 @@
 * Explanation
 	> In these two pivot tables, the only difference between them is the column section.The first table used Q25(Would you dedicate 2 hours of community service?) and the second table used Q34(Are you willing to participate in community planning?), each question was used for columns in their respective table. Also, the only other difference from the original table, the first two tables shown, is the row section is using Q12(How would you rate your neighborhood?), instead of Q49.
 
+* Analysis
+	> These two tables are very very similar in their approach, stated in the explanation, 
+
 3. Inquire into patterns that exist in respondents ideas for changes to make in Hazelwood (Q6). Would creating sub-planning groups for neighborhood improvements based on age and gender makse sense to you based on the data? Is there a connection between the improvements folks would like to see and the Creative activities folks are interested in (Q29)?
 
 * Explanation
