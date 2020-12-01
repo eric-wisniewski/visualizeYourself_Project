@@ -1,1 +1,0 @@
-# Visualize Yourself: A Job's Repercussions on Mood & Energy #
